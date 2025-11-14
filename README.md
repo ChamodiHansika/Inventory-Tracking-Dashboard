@@ -57,7 +57,7 @@ This project helps businesses **monitor stock levels, reorder points, and total 
 ## 📎 Author  
 **Chamodi Perera**  
 📧 chamodi.perera@email.com  
-🔗 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/chamodihansika/)) | [GitHub]([https://github.com/yourusername](https://github.com/ChamodiHansika))
+🔗 [LinkedIn][https://linkedin.com/in/your-link](https://www.linkedin.com/in/chamodihansika/) | [GitHub]([https://github.com/yourusername](https://github.com/ChamodiHansika))
 
 ---
 
