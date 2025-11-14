@@ -43,16 +43,13 @@ This project helps businesses **monitor stock levels, reorder points, and total 
 ---
 
 ## 🖼️ Screenshots  
-*(Add your dashboard images here)*
+*([Add your dashboard images here](https://github.com/ChamodiHansika/Inventory-Tracking-Dashboard/blob/main/Sales%20tracking%20image.png))*
 
-![Inventory Overview](./images/inventory-overview.png)  
-![Stock Status View](./images/stock-status.png)  
-![Supplier Performance Dashboard](./images/supplier-performance.png)
 
 ---
 
 ## 🌐 Dashboard Link  
-[🔗 View Power BI Dashboard](https://app.powerbi.com/...)  
+[🔗 View Power BI Dashboard]([https://app.powerbi.com/...](https://github.com/ChamodiHansika/Inventory-Tracking-Dashboard/blob/main/Tracking%20Analysis.pbit))  
 *(Replace this with your published Power BI dashboard link or embed code)*
 
 ---
